@@ -1,0 +1,2 @@
+
+console.log(cetakNama('Aldi'));
